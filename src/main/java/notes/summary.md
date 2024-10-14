@@ -12,7 +12,7 @@
 
 ---
 
-## Blockchain mining
+## BlockChain mining
 
 **O que é mineração (mining)?**
 
@@ -46,7 +46,7 @@ Assim que um minerador encontra o nonce correto, ele anuncia o bloco para a rede
 O minerador que resolver o puzzle recebe uma recompensa em criptomoedas e todas as taxas das transações incluídas no bloco.
 
 
-- Adição ao Blockchain:
+- Adição ao BlockChain:
 
 O bloco é então adicionado ao blockchain, e todas as transações nele se tornam parte oficial do histórico da rede.
 
@@ -97,5 +97,5 @@ Mineração é o processo de:
 
 ## DECENTRALIZED AND DISTRIBUTED NETWORKS
 
-"**Blockchain** (such as Bitcoin) is **distributed** because the users hold a copy of the blockchain itself, 
+"**BlockChain** (such as Bitcoin) is **distributed** because the users hold a copy of the blockchain itself, 
 and it is **decentralized** as no single person or group has control - all users collectively retain control"
