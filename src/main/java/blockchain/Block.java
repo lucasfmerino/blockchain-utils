@@ -1,3 +1,5 @@
+package blockchain;
+
 import java.util.Date;
 
 public class Block
@@ -57,7 +59,7 @@ public class Block
     @Override
     public String toString()
     {
-        return "Block [id=" + id +
+        return "blockchain.Block [id=" + id +
                 ", hash=" + hash +
                 ", previousHash=" + previousHash +
                 ", transaction=" + transaction + "]";

@@ -1,3 +1,5 @@
+package blockchain;
+
 public class Constants
 {
     private Constants()

@@ -1,3 +1,5 @@
+package blockchain;
+
 public class App
 {
     public static void main(String[] args)
@@ -18,6 +20,6 @@ public class App
 
 
         System.out.println("\n" + "BLOCKCHAIN:\n" + blockChain);
-        System.out.println("Miner's reward: " + miner.getReward());
+        System.out.println("blockchain.Miner's reward: " + miner.getReward());
     }
 }

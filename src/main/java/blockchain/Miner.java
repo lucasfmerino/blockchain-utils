@@ -1,3 +1,5 @@
+package blockchain;
+
 public class Miner
 {
     private int reward;
