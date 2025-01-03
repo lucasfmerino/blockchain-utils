@@ -113,3 +113,8 @@ and it is **decentralized** as no single person or group has control - all users
 
 ## MEM-POOLS AND TRANSACTIONS FEES
 
+## PUBLIC-KEY AND PRIVATE-KEY
+
+## UTXOs
+
+## WALLETS
